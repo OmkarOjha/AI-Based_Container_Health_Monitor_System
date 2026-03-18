@@ -38,7 +38,7 @@ The AI model detecting normal behavior across all 6 containers in real time.
 ### 📈 Live Anomaly Scores via API
 Real-time container anomaly scores returned by the FastAPI endpoint.
 
-![Live Scores](<img width="1171" height="830" alt="Screenshot 2026-03-18 115123" src="https://github.com/user-attachments/assets/3cfdcd7d-1e8a-472f-9294-2c8a83737ae6" />)
+![Live Scores](<)
 
 ---
 
