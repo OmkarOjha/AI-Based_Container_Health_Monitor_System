@@ -17,7 +17,7 @@ An AI-driven monitoring platform for Docker and Kubernetes containers that uses 
 ### 🤖 AI Anomaly Detection — Grafana Dashboard
 Live anomaly scores for all containers, with Prometheus scoring `1.0` as a behavioral outlier.
 
-![Grafana Dashboard](![ss_anomaly_logs](https://github.com/user-attachments/assets/eb73e537-9201-4fa0-9030-27def0e208a9))
+![Grafana Dashboard](!)
 
 ---
 
